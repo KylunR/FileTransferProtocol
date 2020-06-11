@@ -24,7 +24,7 @@ using namespace std;
  *  File-Transfer-Protocol that supports commands for
  *  open, cd subdir, ls, get file, put file, close, quit.
  *  
- *  To run: ./ftp ftp.tripod.com
+ *  To run: ./ftp ftp.tripod.com [OR] ./buildscript.sh
  *  Username: css432
  *  Password: *******
  * 
